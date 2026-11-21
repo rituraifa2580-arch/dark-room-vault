@@ -1,0 +1,6 @@
+{
+  "name": "Dark Room",
+  "description": "Offline-first private security vault with AES-256-GCM encryption, biometric unlock, decoy PIN, intruder logging, and app lock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

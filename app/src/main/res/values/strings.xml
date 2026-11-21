@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dark Room</string>
+    <string name="app_brand_title">DARK ROOM</string>
+    <string name="app_brand_subtitle">PRIVATE SECURITY VAULT</string>
+    <string name="accessibility_service_label">Dark Room App Lock</string>
+    <string name="accessibility_service_description">Detects when a protected app opens on-device so Dark Room can verify your PIN or fingerprint before access. No screen content, keystrokes, or personal data are read or transmitted.</string>
+</resources>
